@@ -64,7 +64,7 @@ module.exports = {
                 link: "https://github.com/zhangxiaoipencil"
             }
         ],
-        lastUpdated: 'Last Updated',
+        lastUpdated: 'true',
         dateFormat: 'YYYY-MM-DD',
         footer: {
             smoothScroll: true,
