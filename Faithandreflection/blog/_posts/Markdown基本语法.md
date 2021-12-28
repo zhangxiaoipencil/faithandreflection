@@ -68,6 +68,10 @@ location: Beijing
 
 ## 三. 可能出错的点
 
+常用命令：
+1. 进入目录： cd 目录名or目录路径
+2. 回退到上一级目录: cd ..
+3. 查看目录下的内容： ls -a (PS: -a 可以看到隐藏文件)
 
 ![可能出错](/image/error1.png)
 
@@ -98,3 +102,7 @@ location: Beijing
 
 相当于把该项目存储到Github，不需要带U盘啦
 ![存储到远端](/image/save_cloud.png)
+
+#### 4.6 本地草稿箱
+内容没写完，可以放在**drafts**目录中，正常发布不会影响到网页发布。
+> npm run dev 本地预览 也许是个好习惯。

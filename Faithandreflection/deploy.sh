@@ -20,5 +20,5 @@ git commit -m 'deploy'
 git push -f git@github.com:zhangxiaoipencil/faithandreflection.git master:gh-pages
 
 cd -
-
+# 删除dist目录,避免影响到远端存储
 rm -rf blog/.vuepress/dist
