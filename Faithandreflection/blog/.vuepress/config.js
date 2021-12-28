@@ -5,11 +5,6 @@ module.exports = {
     themeConfig: {
         sidebar: 'auto',
         backToHome: "返回首页",
-        about: {
-            fullName: 'Zhangxiaoipencil',
-            bio: 'love Lord ♥ ...',
-            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdfbA8RdCOXcMSpyvAmEjVpnm8t5uZ8aXmA&usqp=CAU',
-        },
         directories: [{
                 id: "posts",
                 dirname: "_posts",

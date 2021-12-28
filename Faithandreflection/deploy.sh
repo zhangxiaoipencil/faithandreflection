@@ -10,7 +10,7 @@ npm run build
 cd blog/.vuepress/dist
 
 # 如果是发布到自定义域名
-# echo 'www.faithandreflection.top' > CNAME
+echo 'faithandreflection.top' > CNAME
 
 git init
 git add -A
@@ -20,3 +20,5 @@ git commit -m 'deploy'
 git push -f git@github.com:zhangxiaoipencil/faithandreflection.git master:gh-pages
 
 cd -
+
+rm -rf blog/.vuepress/dist

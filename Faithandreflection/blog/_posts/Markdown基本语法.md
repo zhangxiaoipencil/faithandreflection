@@ -93,3 +93,8 @@ location: Beijing
 
 
 ![发布成功](/image/operation_5.png)
+
+#### 4.5 存储到远端(非必须)
+
+相当于把该项目存储到Github，不需要带U盘啦
+![存储到远端](/image/save_cloud.png)
